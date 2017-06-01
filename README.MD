@@ -1,4 +1,4 @@
-﻿### Migrando de C para C++ - Guia prático de progaramação
+﻿### Migrando de C para C++ - Guia prático de programação
 
 Este repositório contém os códigos-fonte dos programas de exemplo do livro [Migrando de C para C++ - Guia prático de programação](http://www.lcm.com.br/site/#/livros/detalhesLivro/migrando-de-c-para-c---guia-pratico-de-programacao.html).
 
